@@ -5,7 +5,7 @@
         <div class="text-h5">Pretraživanje knjiga</div>
       </q-card-section>
       <q-card-section>
-        <!-- Pretraživanje -->
+      
         <q-input
           v-model="searchQuery"
           label="Pretraži po naslovu ili autoru"
